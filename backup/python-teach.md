@@ -1,4 +1,4 @@
-# NeoXL服务器ddos教学
+# NeoXL服务器ddos时候的qq群以及状况
 ```python
 DDoSer = "深金冰"
 DDoSdefense = "$99999999999999" 
