@@ -1,2 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://XiaoKuYa.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://XiaoKuYa.github.io</link></image><lastBuildDate>Fri, 04 Jul 2025 02:18:08 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>python-teach</title><link>https://XiaoKuYa.github.io/post/python-teach.html</link><description># NeoXL服务器ddos教学
+'''python
+DDoSer = '深金冰'
+DDoSdefense = '$99999999999999' 
+deposit = '¥0.0000000000001'
+sever = '正在重复执行/stop'
+severadminstertor = '正在努力修务器'
+severpiayer = '发出没好的祝福'
+print('1:DDoS服务器的人')
+print('2:防DDoS的价格')
+print('3:你的余额')
+print('4:腐竹在干嘛')
+print('5:玩家们')
+print('6:服务器')
+print('7:退出')
+INPUT = input('请输入你要查询的数据：')
+while True:
+    if INPUT == '1':
+        print('DDoS服务器的人是', DDoSer)
+        INPUT = input('请输入你要查询的数据：')
+    if INPUT == '2':
+        print('防DDoS的价格是', DDoSdefense)
+        INPUT = input('请输入你要查询的数据：')
+    if INPUT == '3':
+        print('你的余额是', deposit)
+        INPUT = input('请输入你要查询的数据：')
+    if INPUT == '4':
+        print('腐竹在', severadminstertor)
+        INPUT = input('请输入你要查询的数据：')
+    if INPUT == '5':
+        print('玩家们', severpiayer)
+        INPUT = input('请输入你要查询的数据：')
+    if INPUT == '6':
+        print('服务器', sever)
+        INPUT = input('请输入你要查询的数据：')
+    if INPUT == '7':
+        break
+        exit()
+'''。</description><guid isPermaLink="true">https://XiaoKuYa.github.io/post/python-teach.html</guid><pubDate>Fri, 04 Jul 2025 02:17:44 +0000</pubDate></item></channel></rss>
