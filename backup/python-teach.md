@@ -1,5 +1,5 @@
 # NeoXL服务器ddos教学
-'''python
+```python
 DDoSer = "深金冰"
 DDoSdefense = "$99999999999999" 
 deposit = "¥0.0000000000001"
@@ -36,4 +36,4 @@ while True:
     if INPUT == "7":
         break
         exit()
-'''
+```
